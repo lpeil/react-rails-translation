@@ -3,11 +3,27 @@
   "version": "1.0.0",
   "main": "lib/index.js",
   "license": "MIT",
-  "author": "lpeil",
+  "author": "luanpeil",
   "dependencies": {
     "fs": "^0.0.1-security",
     "glob": "^7.1.6",
     "path": "^0.12.7",
     "yaml-js": "^0.2.3"
-  }
+  },
+  "description": "Base on [mikamai/rails-translations-webpack-plugin](https://github.com/mikamai/rails-translations-webpack-plugin)",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo No test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lpeil/react-rails-translation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lpeil/react-rails-translation/issues"
+  },
+  "homepage": "https://github.com/lpeil/react-rails-translation#readme"
 }
